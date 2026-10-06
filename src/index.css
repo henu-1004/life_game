@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #090d16;
+    color: #f1f5f9;
+    font-family: 'Pretendard', sans-serif;
+    user-select: none;
+    overflow: hidden;
+  }
+}
